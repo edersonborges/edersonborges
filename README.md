@@ -1,3 +1,9 @@
+## Olá eu sou Ederson e sou dev backend
+
+✔ JavaScript
+✔ Python
+📙 Estudando GO
+
 <div style="display: inline_block"><br>
   <img align="center" alt=Ed-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ed-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
